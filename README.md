@@ -8,4 +8,4 @@ Requirements:
 pip3 install requirements.txt
 
 Copyright notice:
-All credit to : https://github.com/JustAnotherArchivist/snscrape
+All credit to JustAnotherArchivist for the Snscrape module - https://github.com/JustAnotherArchivist/snscrape
